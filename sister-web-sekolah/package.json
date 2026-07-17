@@ -1,0 +1,16 @@
+{
+  "name": "sister-web-sekolah",
+  "version": "1.0.0",
+  "description": "SISTER - Sistem Informasi Sekolah Terintegrasi Berbasis Web (Scalable System Design)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["sekolah", "scalable-system-design", "sqlite", "nodejs"],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=22.5.0"
+  },
+  "dependencies": {}
+}

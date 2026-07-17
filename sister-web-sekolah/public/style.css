@@ -1,0 +1,193 @@
+/* =======================
+   DASHBOARD MODERN
+======================= */
+
+body{
+    background:linear-gradient(135deg,#edf6ff,#dbeafe,#e0f2fe);
+    min-height:100vh;
+}
+
+/* Header Dashboard */
+
+.dashboard-header{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin-bottom:35px;
+    border-bottom:2px solid rgba(255,255,255,.15);
+    padding-bottom:20px;
+}
+
+.dashboard-header h2{
+    font-size:38px;
+    font-weight:700;
+    color:#ffffff;
+}
+
+.dashboard-header p{
+    color:#f1f5f9;
+    font-size:17px;
+}
+
+/* Card Dashboard */
+
+.dashboard-card{
+
+    position:relative;
+
+    overflow:hidden;
+
+    height:170px;
+
+    border-radius:22px;
+
+    padding:28px;
+
+    color:#fff;
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    transition:.35s;
+
+    box-shadow:0 15px 35px rgba(0,0,0,.18);
+
+}
+
+.dashboard-card:hover{
+
+    transform:translateY(-10px);
+
+    box-shadow:0 25px 40px rgba(0,0,0,.25);
+
+}
+.dashboard-card::before{
+
+    content:"";
+
+    position:absolute;
+
+    width:180px;
+
+    height:180px;
+
+    border-radius:50%;
+
+    background:rgba(255,255,255,.12);
+
+    right:-60px;
+
+    top:-60px;
+
+}
+
+.dashboard-header h2{
+    font-size:42px;
+    font-weight:700;
+    color:#1e293b;   /* Biru tua */
+}
+
+.dashboard-card span{
+
+    font-size:18px;
+
+    font-weight:500;
+
+}
+
+.card-icon{
+
+    position:absolute;
+
+    right:20px;
+
+    bottom:15px;
+
+    font-size:70px;
+
+    opacity:.20;
+
+}
+
+/* Warna Card */
+
+.blue{
+    background:linear-gradient(135deg,#2563eb,#1d4ed8);
+}
+
+.green{
+    background:linear-gradient(135deg,#22c55e,#15803d);
+}
+
+.cyan{
+    background:linear-gradient(135deg,#06b6d4,#0e7490);
+}
+
+.orange{
+    background:linear-gradient(135deg,#fb923c,#ea580c);
+}
+
+.red{
+    background:linear-gradient(135deg,#ef4444,#b91c1c);
+}
+
+.purple{
+    background:linear-gradient(135deg,#8b5cf6,#6d28d9);
+}
+
+/* Welcome */
+
+.welcome-box{
+
+    margin-top:30px;
+
+    background:#fff;
+
+    border-radius:20px;
+
+    padding:30px;
+
+    box-shadow:0 12px 30px rgba(0,0,0,.08);
+
+    border-left:6px solid #2563eb;
+
+}
+
+.welcome-box h5{
+
+    color:#1e3a8a;
+
+    font-weight:700;
+
+}
+
+.welcome-box p{
+
+    color:#64748b;
+
+    margin-top:10px;
+
+}
+
+/* Responsive */
+
+@media(max-width:768px){
+
+.dashboard-card{
+
+height:150px;
+
+margin-bottom:20px;
+
+}
+
+.dashboard-card h2{
+
+font-size:42px;
+
+}
+
+}

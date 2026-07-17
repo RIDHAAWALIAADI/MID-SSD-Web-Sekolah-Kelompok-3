@@ -1,0 +1,4 @@
+node_modules/
+db/school.db
+.env
+*.log

@@ -17,7 +17,7 @@ Web Sekolah merupakan aplikasi berbasis web yang digunakan untuk membantu pengel
 2. Asmaul Husna : 105841110323
 3. Arina Manasikana : 105841108623
 4. Neneng Anjarwati : 105841109423
-5. Risa l : 105841111023
+5. Risal : 105841111023
 
 ---
 
@@ -25,11 +25,11 @@ Web Sekolah merupakan aplikasi berbasis web yang digunakan untuk membantu pengel
 
 | Nama | Tugas |
 |-------|--------|
-| Ridha Awalia Adi | Backend, Database, GitHub |
-| Asmaul Husna | Frontend |
-| Arina Manasikana | Dashboard |
-| Neneng Anjarwati | Dokumentasi |
-| Risal | Testing & Presentasi |
+| Ridha Awalia Adi |Ketua Kelompok, Integrasi Sistem, Backend (Node.js & Express), Database (SQLite), GitHub Repository, Deployment, Penyusunan README ,Frontend, Pengujian, Dokumentasi, PPT, Video Presentasi dan Screenshot Sistem |
+| Asmaul Husna | Backend, Database,Tampilan Dashboard, Halaman Login, CSS, Pengujian Antarmuka|
+| Arina Manasikana | Laporan Dan Modul Data Kesiswaan dan Data Kelas, CRUD Data, Validasi Form |
+| Neneng Anjarwati |Modul Jurnal Mengajar dan Bimbingan Konseling (BK), Pengujian Fitur, Perbaikan Bug |
+| Risal | Modul Manajemen Pengguna, Dokumentasi Proyek, Diagram Arsitektur, ERD, Laporan, |
 
 ---
 

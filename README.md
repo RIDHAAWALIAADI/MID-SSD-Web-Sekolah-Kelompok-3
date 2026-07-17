@@ -157,11 +157,11 @@ http://localhost:3000
 
 Administrator
 
-Username :
-admin
+Username :  
+admin@sekolah.test
 
 Password :
-admin123
+password123
 
 (Sesuaikan dengan data pada database.)
 
@@ -169,7 +169,7 @@ admin123
 
 ## 13. Link Video Presentasi
 
-https://youtu.be/ISI_LINK_VIDEO
+https://youtu.be/rSjhRkLlItc?si=1cmRXC8_j7xbYrKy
 
 ---
 
